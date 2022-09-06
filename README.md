@@ -1,1 +1,1 @@
-# cybersecurity-zero-trust-architecture
+# Zero Trust Architecture
